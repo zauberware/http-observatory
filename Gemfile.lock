@@ -3,7 +3,7 @@ PATH
   specs:
     http_observatory (0.0.1)
       faraday
-      rails (~> 4.2.10)
+      rails (~> 4.0)
 
 GEM
   remote: https://rubygems.org/
