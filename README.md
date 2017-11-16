@@ -23,6 +23,10 @@ Add to Gemfile
 
 ```ruby
 gem 'http-observatory'
+
+or 
+
+gem 'http_observatory', git: 'https://github.com/zauberware/http-observatory.git'
 ```
 ```bash
 $ bundle install
