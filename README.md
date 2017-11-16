@@ -1,7 +1,4 @@
-# Rails Gem for Mozilla HTTP Observatory API
-
-<!-- [![Build Status](https://travis-ci.org/april/http-observatory.svg?branch=master)](https://travis-ci.org/april/http-observatory) [![Requirements Status](https://requires.io/github/mozilla/http-observatory/requirements.svg?branch=master)](https://requires.io/github/mozilla/http-observatory/requirements/?branch=master)
- -->
+# Rails Gem for Mozilla HTTP Observatory API - [![Build Status](https://travis-ci.org/zauberware/http-observatory.svg?branch=master)](https://travis-ci.org/zauberware/http-observatory)
 
 The Mozilla HTTP Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 
