@@ -17,16 +17,13 @@ Other official projects:
 
 ## Install
 ```ruby
-gem install http-observatory
+gem install http_observatory
 ```
 Add to Gemfile
 
 ```ruby
-gem 'http-observatory'
+gem 'http_observatory'
 
-or 
-
-gem 'http_observatory', git: 'https://github.com/zauberware/http-observatory.git'
 ```
 ```bash
 $ bundle install
