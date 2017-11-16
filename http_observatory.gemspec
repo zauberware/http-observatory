@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = HttpObservatory::VERSION
   s.authors     = ["Simon Franzen"]
   s.email       = ["simon@zauberware.com"]
-  s.homepage    = "https://www.zauberware.com"
-  s.summary     = "Summary of HttpObservatory."
-  s.description = "Description of HttpObservatory."
+  s.homepage    = "https://github.com/zauberware/http-observatory"
+  s.summary     = "Rails Gem for Mozilla HTTP Observatory API."
+  s.description = "Easy to use handler for the HttpObservatory API."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
