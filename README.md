@@ -52,6 +52,3 @@ $ rspec spec
 
 * Simon Franzen (zauberware technologies)
 
-## License
-
-* Mozilla Public License Version 2.0
