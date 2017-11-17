@@ -46,3 +46,5 @@ $ rspec spec
 
 * Simon Franzen (zauberware technologies)
 
+![zauberware technologies](https://avatars3.githubusercontent.com/u/1753330?s=200&v=4)
+
